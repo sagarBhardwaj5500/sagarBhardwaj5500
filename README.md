@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **bharsagar5@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/bhars/Desktop/SagarResume.pdf](file:///C:/Users/bhars/Desktop/SagarResume.pdf)
+- 📄 Know about my experiences https://drive.google.com/file/d/1qk8FMbIon-WpEmBvX-5on85hNJxa7Aq4/view?usp=sharing
 
 - ⚡ Fun fact **I think i am funny**
 
