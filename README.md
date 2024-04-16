@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web Developer from India</h3>
 
 <center>
-  <img  display="flex" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <img align="center" display="flex" alt="coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
     </center>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sagarbhardwaj5500&label=Profile%20views&color=0e75b6&style=flat" alt="sagarbhardwaj5500" /> </p>
 
@@ -24,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sagar-bhardwaj-55b76b1b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sagar-bhardwaj-55b76b1b6/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sagar-bhardwaj-55b76b1b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sagar-bhardwaj-55b76b1b6/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/bharsagar5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bharsagar5" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sagarbhardwaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sagarbhardwaj" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/bharsagar5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bharsagar5" height="30" width="40" /></a>
