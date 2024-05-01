@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web Developer from India</h3>
 
 <center>
-  <img align="center" display="flex" alt="coding" width="500" display: block;
+  <img align="center"  alt="coding" width="500" display: block;
             margin-left: auto;
             margin-right: auto; src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
     </center>
