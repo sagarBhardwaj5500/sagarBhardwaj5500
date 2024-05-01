@@ -2,10 +2,7 @@
 <h3 align="center">A passionate Web Developer from India</h3>
 
 
-  <img  alt="coding" width="500" display: flex;
-            justify-content: center; 
-            align-items: center; 
-            height: 100vh; src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <img align="center" alt="coding" width="500" ; src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
     
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sagarbhardwaj5500&label=Profile%20views&color=0e75b6&style=flat" alt="sagarbhardwaj5500" /> </p>
 
